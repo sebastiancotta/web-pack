@@ -81,4 +81,4 @@ api/target
 #front-end
 client/dist
 client/node_modules/
-serve/node_modules/
+server/node_modules/
