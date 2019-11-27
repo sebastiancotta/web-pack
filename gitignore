@@ -79,6 +79,6 @@ crashlytics-build.properties
 api/target
 
 #front-end
-/client/dist
-/client/node_modules/
-/serve/node_modules/
+client/dist
+client/node_modules/
+serve/node_modules/
